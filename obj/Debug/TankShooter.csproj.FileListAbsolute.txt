@@ -1,0 +1,10 @@
+E:\Tank_Project\TankShooter\TankShooter\obj\Debug\TankShooter.csproj.AssemblyReference.cache
+E:\Tank_Project\TankShooter\TankShooter\obj\Debug\TankShooter.Properties.Resources.resources
+E:\Tank_Project\TankShooter\TankShooter\obj\Debug\TankShooter.csproj.GenerateResource.cache
+E:\Tank_Project\TankShooter\TankShooter\obj\Debug\TankShooter.csproj.CoreCompileInputs.cache
+E:\Tank_Project\TankShooter\TankShooter\bin\Debug\TankShooter.exe.config
+E:\Tank_Project\TankShooter\TankShooter\bin\Debug\TankShooter.exe
+E:\Tank_Project\TankShooter\TankShooter\bin\Debug\TankShooter.pdb
+E:\Tank_Project\TankShooter\TankShooter\obj\Debug\TankShooter.Menu.resources
+E:\Tank_Project\TankShooter\TankShooter\obj\Debug\TankShooter.exe
+E:\Tank_Project\TankShooter\TankShooter\obj\Debug\TankShooter.pdb
